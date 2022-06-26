@@ -1,0 +1,65 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.cont{
+    width: 80%;
+    height: auto;
+    background-color: antiquewhite;
+    padding: 2rem 2rem;
+    margin: auto;
+    margin-top: 2rem;
+    box-shadow: 1px 1px 5px rgb(116, 114, 114);
+}
+.inputclass{
+    width: 70%;
+    outline: none;
+    border: 1.3px solid black;
+    box-shadow: 1px 1px 2px rgb(190, 183, 183);
+    height: 2rem;
+}
+.inputDate{
+    width: 50%;
+    outline: none;
+    border: 1.3px solid black;
+    box-shadow: 1px 1px 2px rgb(190, 183, 183);
+    height: 2rem;
+}
+.add{
+width: 8rem;
+height: 2rem;
+background-color: aquamarine;
+outline: none;
+border: none;
+box-shadow: 1px 1px 5px rgb(116, 114, 114);
+
+}
+.delete{
+    width: 8rem;
+    height: 2rem;
+    background-color: red;
+    outline: none;
+    border: none;
+    box-shadow: 1px 1px 5px rgb(116, 114, 114);
+
+}
+tbody button .delete{
+    width: 8rem;
+    height: 2rem;
+    background-color: red;
+    outline: none;
+    border: none;
+    box-shadow: 1px 1px 5px rgb(116, 114, 114);
+    display: inline;
+
+}
+tbody .edit{
+    width: 8rem;
+    height: 2rem;
+    background-color: blue;
+    outline: none;
+    border: none;
+    box-shadow: 1px 1px 5px rgb(116, 114, 114);
+
+}
